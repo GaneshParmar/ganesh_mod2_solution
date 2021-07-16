@@ -31,6 +31,9 @@ h4{
 .h4_3{
     background-color: plum;
 }
+.col{
+    margin: 5%;
+}
 
 @media (min-width: 992px){
     .section{
