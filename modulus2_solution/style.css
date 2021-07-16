@@ -32,7 +32,7 @@ h4{
     background-color: plum;
 }
 .col{
-    margin: 5%;
+    margin-left: 5%;
 }
 
 @media (min-width: 992px){
